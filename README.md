@@ -1,6 +1,6 @@
 # ebookr-cli
 
-A command-line interface of [ebookr](https://github.com/ebookr/ebookr). See [Requirements](https://github.com/ebookr/ebookr#requirements) for list of required software.
+A command-line interface of [ebookr](https://github.com/ebookr/ebookr). Requires [Pandoc (and LaTeX, if you want PDF)](http://johnmacfarlane.net/pandoc/installing.html).
 
 ## Installation
 
