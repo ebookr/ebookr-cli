@@ -27,5 +27,7 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-# A file used for testing
+# Files used for testing
 test.pdf
+test.mobi
+test.epub
