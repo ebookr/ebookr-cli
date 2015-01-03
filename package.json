@@ -1,6 +1,6 @@
 {
   "name": "ebookr-cli",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/ebookr/ebookr-cli"
@@ -46,7 +46,7 @@
     "test": "test"
   },
   "dependencies": {
-    "ebookr": "^0.4.5",
+    "ebookr": "^0.4.6",
     "findup-sync": "^0.2.1",
     "nopt": "^3.0.1",
     "resolve": "^1.0.0"
